@@ -1,3 +1,14 @@
 # group-08
 
-TEST
+# Project Description
+
+# Project Structure
+
+# Skills
+
+# Analytics Maturity Scale
+## Aspire
+## Mature
+## Industrialize
+## Realize
+## Differentiate
