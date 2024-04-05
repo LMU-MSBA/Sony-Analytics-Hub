@@ -6,15 +6,15 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 
 # Project Structure
 ### The following are the sections of the project:
-Code:
+**Code:** Test
 
-Dashboards:
+**Dashboards:** 
 
-Data:
+**Data:**
 
-Documents:
+**Documents:**
 
-Presentations:
+**Presentations:**
 
 Tests:
 
