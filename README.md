@@ -7,7 +7,7 @@
 # Skills
 
 # Analytics Maturity Scale
-## Aspire
+### Aspire
 ## Mature
 ## Industrialize
 ## Realize
