@@ -50,7 +50,7 @@ In this phase, we do very initial analysis of the data gathered, centered around
 ### Mature
 In this stage of the data analytics scale, we are trying to climpse the data quality as well as determine a single source of truth. We will do more in depth analysis to find more in depth reasoning behind the trends we initially found. Deliverables for this phase would include an Entity Relationship Diagram (ERD), as well as a structured data warehouse to do analysis on.
 ### Industrialize
-This phase of the analystics maturity scale will include automation and scaling. 
+This phase of the analystics maturity scale will include automation and scaling. Deliverables for this section will include an ETL pipeline as well as a diagnostic analytics dashboard.
 ### Realize
 This stage will include the creation of a predictive model, based on machine learning algorithms. The deliverable for this section will be the finished model itself.
 ### Differentiate
