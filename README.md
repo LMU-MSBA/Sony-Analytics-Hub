@@ -14,9 +14,11 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 
 **Documents:** This section will contain the any necessary documentation such as the project's report or the job posting that this project is based on.
 
+**Models:** Any models, test or final, that are created to analyze the dataset.
+
 **Presentations:** Contains the pdf files of the presentations conducted based on the analysis done on the data.
 
-**Tests:** 
+
 
 # Skills
 
