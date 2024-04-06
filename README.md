@@ -22,6 +22,28 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 
 # Skills
 
+### Business/Problem Solving
+- Industry/Domain Knowledge
+- Decision Making
+- Communication
+
+### Analytics
+- Understanding of Different Stages of Analytics
+  - Descriptive: Summarize Data
+  - Diagnostic: Identify Patterns / Trends
+  - Predictive: Build Models to Predict Based on Historical Data
+  - Prescriptive: Make Reccommendations
+
+### Technology
+- SQL
+  - Creating an ERD Schema
+  - Querying Datasets
+- Python
+  - Training & Testing Machine Learning Models
+  - Data Visualization
+- Tableau
+  - Data Visualization (Interactive Dashboards)
+
 # Analytics Maturity Scale
 ### Aspire
 ### Mature
