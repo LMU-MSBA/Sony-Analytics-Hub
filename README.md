@@ -1,4 +1,4 @@
-# group-08
+![SONY](https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/4d120cd9-8378-4ff1-b3a2-c37a515d6975)
 
 # Project Description
 
