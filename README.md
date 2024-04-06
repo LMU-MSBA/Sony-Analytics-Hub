@@ -6,13 +6,13 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 
 # Project Structure
 ### The following are the sections of the project:
-**Code:** Test
+**Code:** This folder will include all of the code used in the data cleaning, transformation, visualization, and modeling performed.
 
-**Dashboards:** 
+**Dashboards:** The visualizations created on the interactive dashboards using Tableau.
 
-**Data:**
+**Data:** Both the raw and cleaned dataset obtained from Kaggle on the movie industry. This dataset includes important information about specific movies such as revenue, runtime, release date, etc. 
 
-**Documents:**
+**Documents:** This section will contain the any necessary documentation such as the project's report.
 
 **Presentations:**
 
