@@ -48,7 +48,10 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 ### Aspire
 In this phase, we do very initial analysis of the data gathered, centered around the genre of movies. Deliverables for this would include some initial descriptive statistics of the data, as well as some graphs or charts of data trends. At this stage of the project, we are just trying to glimpse the data's value.
 ### Mature
-Now we are looking at things such as the quality of the data. 
+In this stage of the data analytics scale, we are trying to climpse the data quality as well as determine a single source of truth. We will do more in depth analysis to find more in depth reasoning behind the trends we initially found. Deliverables for this phase would include an Entity Relationship Diagram (ERD), as well as a structured data warehouse to do analysis on.
 ### Industrialize
+This phase of the analystics maturity scale will include automation and scaling. 
 ### Realize
+This stage will include the creation of a predictive model, based on machine learning algorithms. The deliverable for this section will be the finished model itself.
 ### Differentiate
+This phase typically inlcudes innovation, as well as data literacy from the top-down in the company. For this project, the deliverable for this section would be a data manifesto.
