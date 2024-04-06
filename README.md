@@ -46,7 +46,9 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 
 # Analytics Maturity Scale
 ### Aspire
+In this phase, we do very initial analysis of the data gathered, centered around the genre of movies. Deliverables for this would include some initial descriptive statistics of the data, as well as some graphs or charts of data trends. At this stage of the project, we are just trying to glimpse the data's value.
 ### Mature
+Now we are looking at things such as the quality of the data. 
 ### Industrialize
 ### Realize
 ### Differentiate
