@@ -64,5 +64,6 @@ For our data mining to be considered successful, we need a dataset that is usabl
 
 ## Produce Project Plan
 ### Initial Assessment of Tools (Technology) & Techniques (Analytics)
+
 ### Data Toolkit Items
 ### Project Plan
