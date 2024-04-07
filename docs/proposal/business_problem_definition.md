@@ -50,7 +50,12 @@ There is no way of saying how much money that Sony Pictures would get directly f
 
 ## Determine Data Mining Goals
 ### Data Mining Goals (Enabling Activites)
+
+The main goal of our data mining is to find data that will be insightful to Sony Pictures to be able to make more strategic decisions on their investments. Specifically, the data must include information on genre, as we are focusing our analysis on the genre of different movies. The enabling activities that we will use to delive
+
 ### Data Mining Success Criteria
+
+For our data mining to be considered successful, we need a dataset that is usable. That means a number of things. First, there are enough variables included in the dataset so that we can make meaningful and deep insghts into the data. If there are only two or three variables, then we would have trouble doing a deep dive into the data. Another criteria is that the data needs to have enough rows. If there are not enough observations, then we can't draw anything meaningful. The data also cannot have too many missing values, and the data needs to be accurate. We will need to use the ETL (Extract, Tranform, Load)process in order to generate clean data, as the intial data will most likely not be clean. It will have missing values, formatting problems, unnecessary columns, etc. Once all of this is done, then we can say that our data mining was successful.
 
 ## Produce Project Plan
 ### Initial Assessment of Tools (Technology) & Techniques (Analytics)
