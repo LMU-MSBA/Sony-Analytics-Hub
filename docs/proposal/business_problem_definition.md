@@ -51,7 +51,12 @@ There is no way of saying how much money that Sony Pictures would get directly f
 ## Determine Data Mining Goals
 ### Data Mining Goals (Enabling Activites)
 
-The main goal of our data mining is to find data that will be insightful to Sony Pictures to be able to make more strategic decisions on their investments. Specifically, the data must include information on genre, as we are focusing our analysis on the genre of different movies. The enabling activities that we will use to delive
+The main goal of our data mining is to find data that will be insightful to Sony Pictures to be able to make more strategic decisions on their investments. Specifically, the data must include information on genre, as we are focusing our analysis on the genre of different movies. The enabling activities that we will use to deliver our desired outcome are the following:
+- F01: Increased use of external data
+- F07: Increased use of structured data
+- F17: Improved use of data science models
+- F23: Improved use of machine learning
+- F31: More data-aware exec
 
 ### Data Mining Success Criteria
 
