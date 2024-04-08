@@ -85,4 +85,19 @@ Loosely, our project plan will be as follows:
    2. Find Data
    3. ETL (Extract, Transform, Load) on the Data
    4. Create Dashboard of Descriptive Analytics
-2. TEst
+2. Mature Phase
+   1. Creaste a Data Governance Policy
+   2. Create an ERD of the Data
+   3. Create a Data Warehouse on mySQL
+   4. Create an ETL Pipeline
+3. Present on Findings to This Point
+4. Industrialize Phase
+   1. Create an Automated ETL Pipeline
+   2. Create a Diagnostic Analytics Dashboard
+   3. Present on the Diagnostic Analytics
+5. Realize Phase
+   1. Create & Test a Predictive Model
+   2. Run an A/B Test
+6. Differentiate Phase
+   1. Create a Data Manifesto
+7. Present on Findings
