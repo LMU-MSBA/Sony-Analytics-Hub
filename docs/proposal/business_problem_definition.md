@@ -65,5 +65,24 @@ For our data mining to be considered successful, we need a dataset that is usabl
 ## Produce Project Plan
 ### Initial Assessment of Tools (Technology) & Techniques (Analytics)
 
+As mentioned earlier, we will be using our personal computers to complete this project, with the following analytics tools to help:
+- Excel (Data Cleaning)
+- Python (Data Analyis & Model Creation
+- mySQL Workbench (Querying & Data Manipulation)
+- Tableau (Data Visualization / Dashboard Creation)
+
+Each group member will bring their specific skillset in order to help us most effectively get each step of the project done.
+
 ### Data Toolkit Items
+
+Our project will produce many different items from the data toolkit. For example, in the first sprint of the project we will create a dashboard to present with our initial findings from the data during the Aspire and Mature phases of the Analytics Maturity Scale. We will also be creating written reports throughout, such as this one. Later on during the project, we will be using data science and machine learning to create a predictive model.
+
 ### Project Plan
+
+Loosely, our project plan will be as follows:
+1. Aspire Phase
+   1. Understand Bussiness Problem
+   2. Find Data
+   3. ETL (Extract, Transform, Load) on the Data
+   4. Create Dashboard of Descriptive Analytics
+2. TEst
