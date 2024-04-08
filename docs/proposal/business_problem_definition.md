@@ -40,7 +40,14 @@ The business activity category that best suits the goals and direction of this p
 - Constraints
   - Time
   - Finding time to meet and work as a group since we are all busy with work and class separately
+
 ### Terminology
+- Genre: Categories or types of movies (ex. Action, Comedy, Drama)
+- Data Analysis: The process of inspecting, cleaning, transforming and modeling data to uncover insights and make data-driven decisions
+- Predictive Modeling: Using statistical algorithms and machine learning techniques to predict future outcomes based on historical data
+- Python: Programming Language
+- SQL: Structured Query Language, used for managing and querying from databases
+- Tableau: Data Visualization tool that can be used to create interactive dashboards
 
 ### Costs & Benefits
 
