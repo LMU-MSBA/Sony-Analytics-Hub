@@ -15,10 +15,10 @@ The business activity category that best suits the goals and direction of this p
 ## Assess Situation
 ### Inventory of Resources
 - Personnel
-  - Lior Ben David
-  - Ben Gerber
-  - Inbar Geva
-  - Dani Le
+  - Lior Ben David - Data Analyst
+  - Ben Gerber - Data Scientist
+  - Inbar Geva - Data Engineer
+  - Dani Le - BI Specialist
 
 - Data
   - TMDB Movies Dataset 2024 (1M Movies)
