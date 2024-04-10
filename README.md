@@ -36,13 +36,14 @@ Our goal is to help the Sony Analytics team by giving them the tools necessary t
 
 ### Technology
 - SQL
-  - Creating an ERD Schema
   - Querying Datasets
 - Python
   - Training & Testing Machine Learning Models
   - Data Visualization
 - Tableau
   - Data Visualization (Interactive Dashboards)
+- Tableau Prep
+  - Creation of ERD Schema
 
 # Analytics Maturity Scale
 ### Aspire
