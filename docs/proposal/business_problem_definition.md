@@ -9,7 +9,12 @@ The film industry is highly competitive, and production companies are constantly
 The business activity category that best suits the goals and direction of this project is the Strategy section. Although ultimately the goal would be to increase revenues, the more defined objective is to be able to analyze the trends in the movie industry to give Sony Pictures the tools to make informed decisions on how to best imrpove their methods. 
 
 ### OKR (Objectives & Key Results)
-Although the main objective of the project is to adjust give the Sony Pictures team the tools necessary to improve strategic decisions, 
+Although the main objective of the project is to adjust give the Sony Pictures team the tools necessary to improve strategic decisions, the objectives of the Sony Pictures team might be much more specific. Our goal is just to make them aware to things that they might not have been aware of before using available data. So our objective will be to create deliverables for the project that are laid out in the [README](https://github.com/LMU-MSBA/Sony-Analytics-Hub/blob/main/README.md) file. A few examples of these deliverables incude different dashboards, an ETL and a predictive model. 
+
+An example of goals for Sony Pictures could be the following:
+- Increase revenues for movies produced in a specific genre (i.e. Action) by 10% in the next 5 years.
+
+This would give Sony enought time to go through the data, make the informed decision that they should invest more into action movies, then produce more movies over the next few years that fall into that genre.
 
 ### OKR Initiatives
 
