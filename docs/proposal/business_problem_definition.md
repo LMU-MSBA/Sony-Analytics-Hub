@@ -14,7 +14,7 @@ Although the main objective of the project is to adjust give the Sony Pictures t
 An example of goals for Sony Pictures could be the following:
 - Increase revenues for movies produced in a specific genre (i.e. Action) by 10% in the next 5 years.
 
-This would give Sony enought time to go through the data, make the informed decision that they should invest more into action movies, then produce more movies over the next few years that fall into that genre.
+This would give Sony enought time to go through the data, make the informed decision that they should invest more into action movies, then produce more movies over the next few years that fall into that genre. Again, although the ultimate objective is to help Sony Pictures make more money, we are focused on the business activity category of improvement in strategy.
 
 ### OKR Initiatives
 
