@@ -34,14 +34,15 @@ In order to help Sony Pictures achieve their goals, we will give them the follow
 
 - Data
   - TMDB Movies Dataset 2024 (1M Movies)
-  - Creation of ERD from mentioned dataset
+  - Creation of ERD from this dataset
  
 - Computing Resources
   - Each of our personal computers
 
 - Software
   - Excel (Data Cleaning)
-  - Python (Data Analyis & Model Creation
+  - Tableau Prep (ETL Pipeline)
+  - Python (Data Analyis & Model Creation)
   - mySQL Workbench (Querying & Data Manipulation)
   - Tableau (Data Visualization / Dashboard Creation)
 
@@ -52,6 +53,11 @@ In order to help Sony Pictures achieve their goals, we will give them the follow
 - Constraints
   - Time
   - Finding time to meet and work as a group since we are all busy with work and class separately
+ 
+### Risks & Contingencies
+- Data Accuracy: Trusting that the data we are presenting to Sony Pictures is correct
+- Hitting a dead end with technical processes
+- Not finding favorable results, so we have nothing concrete to show Sony for a strong reccommendation
 
 ### Terminology
 - Genre: Categories or types of movies (ex. Action, Comedy, Drama)
