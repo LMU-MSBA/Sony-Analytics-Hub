@@ -19,7 +19,6 @@
 | poduction_companies | str | List of production companies involved in the movie |
 | production_country | str | Main country of the movie production |
 
-
 ## Metadata
 - Source: Kaggle
 - Owner: Asaniczka
