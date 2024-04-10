@@ -11,12 +11,18 @@ The business activity category that best suits the goals and direction of this p
 ### OKR (Objectives & Key Results)
 Although the main objective of the project is to adjust give the Sony Pictures team the tools necessary to improve strategic decisions, the objectives of the Sony Pictures team might be much more specific. Our goal is just to make them aware to things that they might not have been aware of before using available data. So our objective will be to create deliverables for the project that are laid out in the [README](https://github.com/LMU-MSBA/Sony-Analytics-Hub/blob/main/README.md) file. A few examples of these deliverables incude different dashboards, an ETL and a predictive model. 
 
-An example of goals for Sony Pictures could be the following:
+An example of an objective/key result for Sony Pictures could be the following:
 - Increase revenues for movies produced in a specific genre (i.e. Action) by 10% in the next 5 years.
 
 This would give Sony enought time to go through the data, make the informed decision that they should invest more into action movies, then produce more movies over the next few years that fall into that genre. Again, although the ultimate objective is to help Sony Pictures make more money, we are focused on the business activity category of improvement in strategy.
 
 ### OKR Initiatives
+
+In order to help Sony Pictures achieve their goals, we will give them the following deliverables:
+- Descriptive & Diagnostic Interactive Dashboards
+- A Predictive Model
+- Run A/B Tests
+- Present Our Findings
 
 ## Assess Situation
 ### Inventory of Resources
