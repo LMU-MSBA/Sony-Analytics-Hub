@@ -9,6 +9,7 @@ The film industry is highly competitive, and production companies are constantly
 The business activity category that best suits the goals and direction of this project is the Strategy section. Although ultimately the goal would be to increase revenues, the more defined objective is to be able to analyze the trends in the movie industry to give Sony Pictures the tools to make informed decisions on how to best imrpove their methods. 
 
 ### OKR (Objectives & Key Results)
+Although the main objective of the project is to adjust give the Sony Pictures team the tools necessary to improve strategic decisions, 
 
 ### OKR Initiatives
 
