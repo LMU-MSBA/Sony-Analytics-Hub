@@ -55,4 +55,4 @@ This phase of the analystics maturity scale will include automation and scaling.
 ### Realize
 This stage will include the creation of a predictive model, based on machine learning algorithms. The deliverable for this section will be the finished model itself.
 ### Differentiate
-This phase typically inlcudes innovation, as well as data literacy from the top-down in the company. For this project, the deliverable for this section would be a data manifesto.
+This phase typically inlcudes innovation, as well as data literacy from the top-down in the company. For this project, the deliverable for this section would be a data manifesto as well as a final presentation on our findings.
