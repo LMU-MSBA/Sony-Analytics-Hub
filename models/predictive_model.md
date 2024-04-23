@@ -24,7 +24,7 @@ After the data was cleaned and prepped to be used in a predictive model, we were
 | release_month | int | Month that the film was released |
 | production_country | str | Main country of the movie production |
 
-But, the categorical variables (non-numeric variables) needed to be encoded in order to be used in the predictive model. This is because the decision tree cannot recognize non-numeric variables as inputs. So, as menntioned, encoding was utilized to combat this. After encoding, there were over 200 inputs! This was because some variables had many categories, such as production_country.
+The categorical variables (non-numeric variables) needed to be encoded in order to be used in the predictive model. This is because the decision tree cannot recognize non-numeric variables as inputs. So, as menntioned, encoding was utilized to combat this. After encoding, there were over 200 inputs! This was because some variables had many categories, such as production_country.
 
 But, after the model was trained and the decision tree was pruned, the model was left much simpler. The model required the following 15 unique features:
 
