@@ -47,7 +47,18 @@ But, after the model was trained and the decision tree was pruned, the model was
 | release_month | The month (1-12) that the movie was released in |
 
 ## Output / Prediction
+The model takes the features of a movie as the input varibles. Then, the model predicts the bin of categorized revenue it predicts the movie will fall into. These categories are as follows, with their labels and their dollar amounts:
+
+| Categorized Revenue Bin | $ Amount |
+| ----------- | ----------- |
+| 1. Low | $0 - $29,178 |
+| 2. Medium | $29,178 - $2,370,313.50 |
+| 3. High | $2,370,313.50 - $23,604,902.25 |
+| 4. Very High | $23,604,902.25 and up |
+
+These dollars amounts were not just randomly selected. They are the quartile values for revenues. For example, the "Medium" category for revenue is from the 25th percentile to the 50th percentile of revenues in the dataset.
 
 ## Performance Metrics
+
 
 ## Using the Model for Prediction
