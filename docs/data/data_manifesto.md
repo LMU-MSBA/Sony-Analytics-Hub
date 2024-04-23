@@ -9,7 +9,7 @@ In today's rapidly evolving entertainment landscape, data has become a crucial a
 - We will invest in training programs and resources to enhance data literacy, empowering our employees to make data-driven decisions that drive business success.
 ### Analytics Maturity
 - We are committed to advancing our analytics capabilities to achieve higher levels of maturity on the analytics maturity scale. This involves evolving from basic reporting to predictive and prescriptive analytics, enabling us to extract actionable insights from data.
-- We will continuously assess our analytics maturity level and invest in technologies, tools, and talent to accelerate our progression towards becoming a data-driven organization in the Differentiation phase.
+- We will continuously assess our analytics maturity level (aspire, mature, industrialize, realize and differentiate) and invest in technologies, tools, and talent to accelerate our progression towards becoming a data-driven organization and reach the Differentiation phase.
 ### Data-Informed Decision Making
 - We firmly believe in the power of data to guide decision making across all aspects of our business. Data-informed decision making involves integrating data-driven insights into our strategic planning, marketing campaigns, content creation, and investment decisions.
 - We will establish processes and mechanisms to ensure that data is readily available, accessible, and utilized to inform decision making at every level of the organization.
