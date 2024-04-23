@@ -72,4 +72,13 @@ Since the predictive model is a decision tree classifier, there are many differe
 ![Screen Shot 2024-04-23 at 3 08 21 PM](https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/a1469102-724f-4bef-b9ca-52795cf13481)
 
 - Support is just the total number of occurances of each category in the testing data set.
+
+The model also was able to produce the following graph of ROC and AUC:
+
+<img width="500" alt="ROC - AUC Curves" src="https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/1f3980a1-3473-4c1b-8868-d02b884b2f1f">
+
+The ROC curves are for each class of categorized revenue. It plots the true positive vs the false positive rate and shows the trade off between the two. 
+
+AUC represents the area under the ROC curves and and quantifies the overall performance of the classifier across all threshold values. It is on a scale of 0-1, where higher values indicate better performance of the predicitve model.
+
 ## Using the Model for Prediction
