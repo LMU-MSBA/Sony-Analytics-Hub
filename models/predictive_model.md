@@ -47,3 +47,7 @@ But, after the model was trained and the decision tree was pruned, the model was
 | release_month | The month (1-12) that the movie was released in |
 
 ## Output / Prediction
+
+## Performance Metrics
+
+## Using the Model for Prediction
