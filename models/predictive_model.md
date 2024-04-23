@@ -60,5 +60,6 @@ These dollars amounts were not just randomly selected. They are the quartile val
 
 ## Performance Metrics
 
+Since the predictive model is a decision tree classifier, there are many different metrics that can be used to evaluate the model. 
 
 ## Using the Model for Prediction
