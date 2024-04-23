@@ -22,6 +22,7 @@ After the data was cleaned and prepped to be used in a predictive model, we were
 | original_language | str | Original language in which the movie was produced |
 | genre | str | the Genre the movie belongs to | 
 | top20_production_company | bool | Whether or not the film was produced by one of the top 20 production companies based on total revenue |
+| release_month | int | Month that the film was released |
 | production_country | str | Main country of the movie production |
 
 But, the categorical variables (non-numeric variables) needed to be encoded in order to be used in the predictive model. This is because the decision tree cannot recognize non-numeric variables as inputs. So, as menntioned, encoding was utilized to combat this. After encoding, there were over 200 inputs! This was because some variables had many categories, such as production_country.
