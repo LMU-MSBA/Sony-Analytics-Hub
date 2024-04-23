@@ -10,7 +10,7 @@ This final model created for this project is a decision tree classifier. The inp
 
 ## Input Features
 
-After the data was cleaned and prepped to be used in a predictive model, we were left with nine variables (eight excluding the categorized_rev label column). 
+After the data was cleaned and prepped to be used in a predictive model, we were left with nine variables (eight excluding the categorized_rev label column). Here are those variables:
 
 | Variable | Type | Description |
 | ----------- | ----------- | ----------- |
