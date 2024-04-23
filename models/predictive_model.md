@@ -82,3 +82,5 @@ The ROC curves are for each class of categorized revenue. It plots the true posi
 AUC represents the area under the ROC curves and and quantifies the overall performance of the classifier across all threshold values. It is on a scale of 0-1, where higher values indicate better performance of the predicitve model.
 
 ## Using the Model for Prediction
+
+To use the model for prediction, we would need to create a function that allows for inputs to be made. There would be no preprocessing required, just an understanding of the features of the movie the model would be predicting categorized revenue for.
