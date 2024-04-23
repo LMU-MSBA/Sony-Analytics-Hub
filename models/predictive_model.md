@@ -30,18 +30,20 @@ But, after the model was trained and the decision tree was pruned, the model was
 
 | Variable | Description |
 | ----------- | ----------- |
-| genre_Animation |  |
-| genre_Horror |  |
-| genre_Comedy |  |
-| genre_Drama |  |
-| production_country_Canada |  |
-| production_country_United Kingdom |  |
-| production_country_United States of America |  |
-| production_country_India |  |
-| original_language_es |  |
-| original_language_hi |  |
-| original_language_en |  |
-| budget |  |
-| vote_count |  |
-| runtime |  |
-| release_month |  |
+| genre_Animation | Whether or not the genre of the film is Animation |
+| genre_Horror | Whether or not the genre of the film is Horror |
+| genre_Comedy | Whether or not the genre of the film is Comedy |
+| genre_Drama | Whether or not the genre of the film is Drama |
+| production_country_Canada | Whether or not the production country is Canada |
+| production_country_United Kingdom | Whether or not the production country is the United Kingdom |
+| production_country_United States of America | Whether or not the production country is the United States |
+| production_country_India | Whether or not the production country is India |
+| original_language_es | Whether or not the original language of the film is Spanish |
+| original_language_hi | Whether or not the original language of the film is English |
+| original_language_en | Whether or not the original language of the film is Hindi |
+| budget | The budget of the film in $USD |
+| vote_count | The number of votes given to the film on the IMDB profile for the movie |
+| runtime | The runtime for the movie in minutes |
+| release_month | The month (1-12) that the movie was released in |
+
+## Output / Prediction
