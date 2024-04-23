@@ -1,7 +1,7 @@
 # Predictive Model
 
 ## Description
-This final model created for this project is a decision tree classifier. The inputs to the model are different features of a specific film, with things such as the month it is planning to be released, or the genre of the movie, and then the model predicts the revenue category of the film in one of four categories:
+This final model created for this project is a decision tree classifier. The inputs to the model are different features of a specific film, such as the month it is planning to be released or the genre of the movie. The model then predicts the revenue category the film should fall into, in one of four categories:
 
 1. Low
 2. Medium
