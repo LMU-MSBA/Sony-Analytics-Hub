@@ -64,10 +64,12 @@ Since the predictive model is a decision tree classifier, there are many differe
 
 <img width="465" alt="Classification Report" src="https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/86617772-1a1b-4061-b711-e9e06ecd8a4c">
 
+- Accuracy measures the overall correctness of the model. It calculates the ratio of correctly predicted instances to the total number of instances. Using the testing data, the model produced an accuracy of 0.59. This means that of all 2,373 movies in the testing data, the model correctly predicted 59% of them. Although that sounds like not a great percentage, the model is not perfect, and even more tuning of the hyperparameters could occur.
 - Precision measures the proportion of correctly identified postives of all the times the model predicted a positive result for a revenue_class. For example, for the "Very High" revenue category the precision is 0.71. This means that for 71% of the times the model predicted the revenue for a movie to be in the "Very High" category, the movie actually was in the "Very High" category of revenue.
 - Recall measures the proportion of true positives out of all actual positives. Although that sounds weirdly similar to precision, they are different. In this case, recall for "Very High" is 0.77. This means that of all movies that were actually in the "Very High" category, the model was able to identify 77% of them correctly.
 - F1 Score is the harmonic mean between precision and recall. It is used to show balance precision and recall. Here is a picture of the formula for the F1 Score:
 
 ![Screen Shot 2024-04-23 at 3 08 21 PM](https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/a1469102-724f-4bef-b9ca-52795cf13481)
 
+- Support is just the total number of occurances of each category in the testing data set.
 ## Using the Model for Prediction
