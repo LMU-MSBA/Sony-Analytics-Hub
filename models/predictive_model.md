@@ -60,6 +60,14 @@ These dollars amounts were not just randomly selected. They are the quartile val
 
 ## Performance Metrics
 
-Since the predictive model is a decision tree classifier, there are many different metrics that can be used to evaluate the model. 
+Since the predictive model is a decision tree classifier, there are many different metrics that can be used to evaluate the model. Below is an output produced for the final model using testing data that shows some key metrics:
+
+<img width="465" alt="Classification Report" src="https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/86617772-1a1b-4061-b711-e9e06ecd8a4c">
+
+- Precision measures the proportion of correctly identified postives of all the times the model predicted a positive result for a revenue_class. For example, for the "Very High" revenue category the precision is 0.71. This means that for 71% of the times the model predicted the revenue for a movie to be in the "Very High" category, the movie actually was in the "Very High" category of revenue.
+- Recall measures the proportion of true positives out of all actual positives. Although that sounds weirdly similar to precision, they are different. In this case, recall for "Very High" is 0.77. This means that of all movies that were actually in the "Very High" category, the model was able to identify 77% of them correctly.
+- F1 Score is the harmonic mean between precision and recall. It is used to show balance precision and recall. Here is a picture of the formula for the F1 Score:
+
+![Screen Shot 2024-04-23 at 3 08 21 PM](https://github.com/LMU-MSBA/Sony-Analytics-Hub/assets/123483802/a1469102-724f-4bef-b9ca-52795cf13481)
 
 ## Using the Model for Prediction
