@@ -15,7 +15,6 @@ After the data was cleaned and prepped to be used in a predictive model, we were
 | Variable | Type | Description |
 | ----------- | ----------- | ----------- |
 | vote_count | int | Total count of votes received for the movie |
-| release_date | str | Date when the movie was released | 
 | categorized_revenue | str | Classification of the total revenue into low/medium/high/very high classes |
 | runtime | int | Duration of the movie in minutes | 
 | budget | int | Budget allocated for the movie |
