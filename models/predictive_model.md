@@ -12,6 +12,18 @@ This final model created for this project is a decision tree classifier. The inp
 
 After the data was cleaned and prepped to be used in a predictive model, we were left with nine variables (eight excluding the categorized_rev label column). 
 
+| Variable | Type | Description |
+| ----------- | ----------- | ----------- |
+| vote_count | int | Total count of votes received for the movie |
+| release_date | str | Date when the movie was released | 
+| categorized_revenue | str | Classification of the total revenue into low/medium/high/very high classes |
+| runtime | int | Duration of the movie in minutes | 
+| budget | int | Budget allocated for the movie |
+| original_language | str | Original language in which the movie was produced |
+| genre | str | the Genre the movie belongs to | 
+| top20_production_company | bool | Whether or not the film was produced by one of the top 20 production companies based on total revenue |
+| production_country | str | Main country of the movie production |
+
 But, the categorical variables (non-numeric variables) needed to be encoded in order to be used in the predictive model. This is because the decision tree cannot recognize non-numeric variables as inputs. So, as menntioned, encoding was utilized to combat this. After encoding, there were over 200 inputs! This was because some variables had many categories, such as production_country.
 
 But, after the model was trained and the decision tree was pruned, the model was left much simpler. 
