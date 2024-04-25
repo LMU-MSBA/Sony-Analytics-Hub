@@ -4,7 +4,7 @@
 Key performance metrics for measuring user engagement:
 1. **Click-through Rate (CTR):** The percentage of users who click on the popup windows to receive alerts when ticket sales open for upcoming action movies or to watch their trailers.
 2. **Trailer Views:** the number of views for each trailer embedded within the popup windows.
-3. **Conversion Rate:** the percentage of users who take desired actions after interacting with the popup windows, purchasing tickets for the featured movies or adding them to their watchlists.
+3. **Conversion Rate:** the percentage of users who take desired actions after interacting with the popup windows. This includes purchasing tickets for the featured movies or.
 
 ## Business Question:
 Will increasing user engagement with upcoming action movies lead to a significant increase in sales of action movies?
