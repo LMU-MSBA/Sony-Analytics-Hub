@@ -22,21 +22,17 @@ Will increasing user engagement with upcoming action movies lead to a significan
 - **Sample Size Calculation:**  The sample size will be determined based on the expected effect size, statistical power (typically 0.80), and significance level (typically 0.05), ensuring that the A/B test has sufficient sensitivity to detect meaningful differences in user engagement metrics between the control and experimental groups.
 
 ## Implementation Plan:
-- **Technical Requirements:** Google Optimize for designing, executing, and analyzing A/B tests and Google Analytics for tracking user interactions with the popup windows and analyze their impact 
+- **Technical Requirements:** With Optimizely, we can efficiently conduct A/B testing, multivariate testing, and personalization campaigns to optimize user experiences and inform strategic decisions.
 
 ## Timeline: 
-- **Planning Phase (1-2 weeks):** Define the objectives and hypotheses, determine specific metrics, and create an implementation plan.
-- **Design and Setup Phase (2-3 weeks):** Design popup windows, develop necessary code, and integrate A/B testing platform.
-- **Testing (1 week):** Conduct thorough testing of popup windows and experiment setup.
-- **Launch and Data Collection (4-6 weeks):** Run the experiment, collect data, and monitor user interactions.
-- **Analysis and Interpretation (2-3 weeks):** Analyze results, evaluate statistical significance, and interpret findings.
-- **Reporting and Actionable Insights (1-2 weeks):** Compile report, present findings, and provide recommendations.
-- **Iterative Optimization (Ongoing):** iterating on design and strategy for continuous improvement as well as monitoring user engagement metrics and conduct additional experiments.
+**Preparing and Designing (3-5 weeks):** Defining objectives and metrics, designing popup windows, and integrating Optimizely. 
+**Running the Test (4-6 weeks):** Conducting tests on various devices, launching the A/B test, and collecting user interaction data. 
+**Analyzing and Interpreting (3-5 weeks):** Analyzing results, comparing performance, and drawing conclusions.
 
 ## Ethical Considerations:
-- Informed Consent - providing users with clear and transparent information about the experiments being conducted on the website and obtaining their explicit consent before they participate.
-- User Privacy - safeguarding users' personal information, respecting their preferences, and ensuring transparency about data practices.
-- Fair Treatment - Ensure that the popup window is presented to all users in a fair and equitable manner. Avoid targeting specific user segments based on sensitive attributes such as race, gender, or socioeconomic status.
+- **Informed Consent** - providing users with clear and transparent information about the experiments being conducted on the website and obtaining their explicit consent before they participate.
+- **User Privacy** - safeguarding users' personal information, respecting their preferences, and ensuring transparency about data practices.
+- **Fair Treatment** - Ensure that the popup window is presented to all users in a fair and equitable manner. Avoid targeting specific user segments based on sensitive attributes such as race, gender, or socioeconomic status.
 
 
 ## Data Collection and Analysis:
