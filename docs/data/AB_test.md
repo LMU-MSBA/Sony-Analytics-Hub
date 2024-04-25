@@ -36,6 +36,7 @@ Will increasing user engagement with upcoming action movies lead to a significan
 ## Ethical Considerations:
 - Ensure transparency, user consent, and minimal disruption to browsing experience.
 - Respect user privacy, handle data responsibly, and adhere to relevant regulations.
+- Ensure that the popup window is presented to all users in a fair and equitable manner.
 
 ## Data Collection and Analysis:
 - **Data Collection:** 
