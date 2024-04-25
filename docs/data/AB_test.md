@@ -34,9 +34,10 @@ Will increasing user engagement with upcoming action movies lead to a significan
 - **Iterative Optimization (Ongoing):** iterating on design and strategy for continuous improvement as well as monitoring user engagement metrics and conduct additional experiments.
 
 ## Ethical Considerations:
-- Ensure transparency, user consent, and minimal disruption to browsing experience.
-- Respect user privacy, handle data responsibly, and adhere to relevant regulations.
-- Ensure that the popup window is presented to all users in a fair and equitable manner.
+- Informed Consent - providing users with clear and transparent information about the experiments being conducted on the website and obtaining their explicit consent before they participate.
+- User Privacy - safeguarding users' personal information, respecting their preferences, and ensuring transparency about data practices.
+- Fair Treatment - Ensure that the popup window is presented to all users in a fair and equitable manner. Avoid targeting specific user segments based on sensitive attributes such as race, gender, or socioeconomic status.
+
 
 ## Data Collection and Analysis:
 - **Data Collection:** 
