@@ -19,7 +19,7 @@ Will increasing user engagement with upcoming action movies lead to a significan
   - *Experimental Group:* Users who are presented with popup windows showcasing upcoming action movies and their trailers.
 - **Randomization Process:** Users are randomly assigned to either the control or experimental group to ensure that the groups are representative of the overall user population.
 - **Duration of the Experiment:** The experiment will run for 3 months to capture sufficient data and observe trends in user engagement over time.
-- **Sample Size Calculation:** 
+- **Sample Size Calculation:**  The sample size will be determined based on the expected effect size, statistical power (typically 0.80), and significance level (typically 0.05), ensuring that the A/B test has sufficient sensitivity to detect meaningful differences in user engagement metrics between the control and experimental groups.
 
 ## Implementation Plan:
 - **Technical Requirements:** Google Optimize for designing, executing, and analyzing A/B tests and Google Analytics for tracking user interactions with the popup windows and analyze their impact 
