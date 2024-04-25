@@ -1,4 +1,4 @@
-# Movie Industry Visualized in the last 10 years
+# Movie Industry Visualized in the Last 10 years
 
 
 ## Purpose
