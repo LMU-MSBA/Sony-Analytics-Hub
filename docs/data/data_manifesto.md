@@ -14,7 +14,7 @@ In today's rapidly evolving entertainment landscape, data has become a crucial a
 ### Data-Informed Decision Making
 - We firmly believe in the power of data to guide decision making across all aspects of our business. Data-informed decision making involves integrating data-driven insights into our strategic planning, marketing campaigns, content creation, and investment decisions.
 - We will establish processes and mechanisms to ensure that data is readily available, accessible, and utilized to inform decision making at every level of the organization.
-### Compatitive Advantage
+### Competitive Advantage
 - Leveraging data effectively provides us with a significant competitive advantage in the entertainment industry. By analyzing trends, consumer preferences, and market dynamics, we can identify emerging opportunities, mitigate risks, and optimize our investments.
 - We will prioritize data-driven innovation and experimentation, using data insights to drive product development, content acquisition, and audience engagement strategies that set us apart from competitors.
 ---
